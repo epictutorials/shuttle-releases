@@ -3,6 +3,17 @@
     <channel>
         <title>Shuttle</title>
         <item>
+            <title>1.0.1</title>
+            <pubDate>Mon, 23 Nov 2026 12:20:06 +1300</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://epictutorials.github.io/shuttle-releases/Shuttle-1.0.1-2.dmg" length="7949300" type="application/octet-stream" sparkle:edSignature="grkNnM852JhsmqlCkoFzZNkaOza5fTjM68t6AVWF5o4Rmg6261sauOM/0MkGie3sQz8xy/W9Y1ULWWdQpaEDCg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://epictutorials.github.io/shuttle-releases/Shuttle2-1.delta" sparkle:deltaFrom="1" length="14514" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="hKrIltk/oT7fuD+Ju3kKYSwX6DkXG+JuhRoYkC+LGROg8tb4c+gclBPeeVnlh3Q1E1KcHUbQYczEazSsSuXGAA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0</title>
             <pubDate>Mon, 23 Nov 2026 12:16:28 +1300</pubDate>
             <sparkle:version>1</sparkle:version>
