@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Shuttle</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Mon, 23 Nov 2026 12:16:28 +1300</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://epictutorials.github.io/shuttle-releases/Shuttle-1.0-1.dmg" length="7949037" type="application/octet-stream" sparkle:edSignature="ePj6sIAfYXYmJZRXAKze6udbI3o6Cszm6WIh4DPQVrjPz/yGrdIiWtWIeZRl09rX4bjVHFMl0MCF+tvFdDwnAQ=="/>
+        </item>
+    </channel>
+</rss>
