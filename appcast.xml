@@ -3,21 +3,32 @@
     <channel>
         <title>Shuttle</title>
         <item>
+            <title>0.9.7</title>
+            <pubDate>Thu, 26 Nov 2026 08:39:52 +1300</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>0.9.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul>
+<li>HEVC, H.264 and ProRes video plays straight off your iPhone or iPad, whatever its size. Press Space: nothing is copied first, and the 2 GB limit is gone for a single .mov, .mp4 or .m4v that macOS can play.</li>
+<li>A large video that can’t be read right now says so, instead of “too large to preview”.</li>
+<li>Version numbers now start from 0.9 ahead of Shuttle’s 1.0 launch. This is newer than 1.0.6.</li>
+</ul>
+]]></description>
+            <enclosure url="https://epictutorials.github.io/shuttle-releases/Shuttle-0.9.7-8.dmg" length="9183957" type="application/octet-stream" sparkle:edSignature="YNiopV+4ZptxxcFHKg92DaB8Ijt//OMmee5blbRiGJNMAxDYQ6qkmEInhnA0fV5NiB9WjT3OjKnvXdXuMLPfBg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://epictutorials.github.io/shuttle-releases/Shuttle8-7.delta" sparkle:deltaFrom="7" length="763762" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="lGDCkSKoSfBuCTVfv4ExFOKaP1/s5DQSPlPHv0VQLmVuuP9SDyfyz6g09OhgX1COb3KyFHxhrmLN61EtSaD+BQ=="/>
+                <enclosure url="https://epictutorials.github.io/shuttle-releases/Shuttle8-6.delta" sparkle:deltaFrom="6" length="1054258" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="VOlQMyUrqRHEMQI1lJcSfvQyNxx4BknbBB5QwY8J24o4pN+hLg3mcDH3EJ6z/p//CStFYwsc+TsUE1tmwGdECQ=="/>
+                <enclosure url="https://epictutorials.github.io/shuttle-releases/Shuttle8-5.delta" sparkle:deltaFrom="5" length="1085430" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="pywIdqGvznB4STt8kS8JQvsLAFnDXGn0mTmSuStKkKBRG+wjtKt9EwHaaiHMO0tQrA1o4foQozLlHsimSnpaDA=="/>
+                <enclosure url="https://epictutorials.github.io/shuttle-releases/Shuttle8-4.delta" sparkle:deltaFrom="4" length="1444238" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="3Wi9xTQUhKbeBWrQIUcfMmDgJqr43akLozF7brTRDfd7q3vKQSU74C0M+5B76MAcFjLe81UpSOALMLbc2p6NCg=="/>
+                <enclosure url="https://epictutorials.github.io/shuttle-releases/Shuttle8-3.delta" sparkle:deltaFrom="3" length="1451146" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="JGHG8B0Mn/XPIHHXyDBTfdQgXVUnPriXffArSGbKDw0+Sezicb/mzmE8zfEpoFL00j68RG9UZtbPyA+k8s5EAA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.6</title>
             <pubDate>Thu, 26 Nov 2026 08:10:05 +1300</pubDate>
             <sparkle:version>7</sparkle:version>
             <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul>
-<li>Plug in a different iPhone or iPad and it opens straight away.</li>
-<li>More than one device connected? Switch between them in the sidebar or the Go menu. Each one returns to the folder you left.</li>
-<li>iPads are now called iPads throughout.</li>
-<li>Copies are tied to their device, so a paused one only resumes on the right one.</li>
-<li>Free space now matches Finder.</li>
-<li>Shift-click selects a range in the grid.</li>
-<li>Quick Look says why a large file can't be previewed when you arrow to it.</li>
-</ul>
-]]></description>
             <enclosure url="https://epictutorials.github.io/shuttle-releases/Shuttle-1.0.6-7.dmg" length="9071552" type="application/octet-stream" sparkle:edSignature="jaD/HEJx9EhCfQ3yT6FNKamosxuo4oax9lwxMUgQqbZtpISKDOfgjgNjqmtwPujyHhquzXTWtZu2hErWez4cAA=="/>
             <sparkle:deltas>
                 <enclosure url="https://epictutorials.github.io/shuttle-releases/Shuttle7-6.delta" sparkle:deltaFrom="6" length="926982" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Ld5NrP+eRIvwKBTYKj/MwUrGLLK79kfo+ic78TFADaY3oGlZi8h+1BIWLX0Jk3d1W+AiRBrtRIFwwLV2bTvSDA=="/>
@@ -41,36 +52,6 @@
                 <enclosure url="https://epictutorials.github.io/shuttle-releases/Shuttle6-2.delta" sparkle:deltaFrom="2" length="3248910" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="KoanyqK9fZiRfARmQek0iK+7DhgqxSNpc8S+fBG8saAXuiNtJJ72bVUMzxHsmt4UlDIxCBW43edC8FSL6zaIDA=="/>
                 <enclosure url="https://epictutorials.github.io/shuttle-releases/Shuttle6-1.delta" sparkle:deltaFrom="1" length="3248922" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="stq+YARwZvsUF3Hdc9xULqeoXeSBWYMNgpm3ufwgZAAaH5Zm9AMkAsWIEoXtBDFmjYS3fFcbLAqvTfnOqbarDg=="/>
             </sparkle:deltas>
-            <description><![CDATA[<ul>
-<li>Show or hide iPhone (Media) folders and Apps in the sidebar.</li>
-<li>Apps show their own icons in the sidebar.</li>
-<li>The sidebar keeps its width when you open and close Apps.</li>
-</ul>
-]]></description>
-        </item>
-        <item>
-            <title>1.0.4</title>
-            <pubDate>Tue, 24 Nov 2026 20:52:03 +1300</pubDate>
-            <sparkle:version>5</sparkle:version>
-            <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://epictutorials.github.io/shuttle-releases/Shuttle-1.0.4-5.dmg" length="8939024" type="application/octet-stream" sparkle:edSignature="tbTyMecfKjI8Yr1vGnLDGPouVkNG7nSbVCfbboq2t1sMBrDLl8k6ha+q+QspKFEeL1NCjwpf719ZkTtCRFFgAw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://epictutorials.github.io/shuttle-releases/Shuttle5-4.delta" sparkle:deltaFrom="4" length="1043626" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="nxDLJc5CzwNJUYlVZ+XAkGJpHj8GDJ7n6dqX14W7uK8Ler7MkvYCCMSyCm5AEIDJ9MUKBfoB/kpivRc0wTlcAw=="/>
-                <enclosure url="https://epictutorials.github.io/shuttle-releases/Shuttle5-3.delta" sparkle:deltaFrom="3" length="1044226" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="RloaoqG7pBT+LMpujLrM3jwspVAZrmwDJOSidGZRSQ9yjPsaCXhEViWFHL2kHzdbDNuBe9PkF2Od3HB1TwG7BQ=="/>
-                <enclosure url="https://epictutorials.github.io/shuttle-releases/Shuttle5-2.delta" sparkle:deltaFrom="2" length="3184538" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="+d0NRKbTLxkHTUep7beGy3IQ1U2fb9zFKEotIFWA/6C0sGb27nxe5lFE5WLRXCghK8YqgmUlSMNT4AGJrniRAg=="/>
-                <enclosure url="https://epictutorials.github.io/shuttle-releases/Shuttle5-1.delta" sparkle:deltaFrom="1" length="3185530" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="uAzxXPEdwdFVUfBIf71l5ZGgrkNOTKfYy0h+1hYQbYsIcEOFhnUyMlLYWN/4mC2R7KQE+EHSm2aNA6dKtbGyAw=="/>
-            </sparkle:deltas>
-            <description><![CDATA[<ul>
-<li>Resume picks up where it left off, including folders.</li>
-<li>Copying lots of small files to and from apps is much faster.</li>
-<li>Big folders open faster.</li>
-<li>Replace keeps the old file until the new one has arrived, and a file never replaces a folder.</li>
-<li>Cancel responds faster.</li>
-<li>Clearer messages when a file changes during a copy.</li>
-<li>Free space updates after copying and deleting.</li>
-</ul>
-]]></description>
         </item>
     </channel>
 </rss>
