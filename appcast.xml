@@ -3,17 +3,36 @@
     <channel>
         <title>Shuttle</title>
         <item>
+            <title>1.0.6</title>
+            <pubDate>Thu, 26 Nov 2026 08:10:05 +1300</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul>
+<li>Plug in a different iPhone or iPad and it opens straight away.</li>
+<li>More than one device connected? Switch between them in the sidebar or the Go menu. Each one returns to the folder you left.</li>
+<li>iPads are now called iPads throughout.</li>
+<li>Copies are tied to their device, so a paused one only resumes on the right one.</li>
+<li>Free space now matches Finder.</li>
+<li>Shift-click selects a range in the grid.</li>
+<li>Quick Look says why a large file can't be previewed when you arrow to it.</li>
+</ul>
+]]></description>
+            <enclosure url="https://epictutorials.github.io/shuttle-releases/Shuttle-1.0.6-7.dmg" length="9071552" type="application/octet-stream" sparkle:edSignature="jaD/HEJx9EhCfQ3yT6FNKamosxuo4oax9lwxMUgQqbZtpISKDOfgjgNjqmtwPujyHhquzXTWtZu2hErWez4cAA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://epictutorials.github.io/shuttle-releases/Shuttle7-6.delta" sparkle:deltaFrom="6" length="926982" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Ld5NrP+eRIvwKBTYKj/MwUrGLLK79kfo+ic78TFADaY3oGlZi8h+1BIWLX0Jk3d1W+AiRBrtRIFwwLV2bTvSDA=="/>
+                <enclosure url="https://epictutorials.github.io/shuttle-releases/Shuttle7-5.delta" sparkle:deltaFrom="5" length="968418" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Fqe1HW3rkds+a8DSkMm5FKatBmxO8PdWLsmFDfT1JUWrAd8q/F+UMTq3xGcS+ZRbXvIZ3FTeXoiSNZ/NUWQOCQ=="/>
+                <enclosure url="https://epictutorials.github.io/shuttle-releases/Shuttle7-4.delta" sparkle:deltaFrom="4" length="1338218" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="9xq7R84ztghgRrz80I/IQDvjZz1mBUMbC7gFE2Y/ivfYDVl0eRH5N/m87pU/nEgxNlLPPxjRoQeE9Dxvhx9tDA=="/>
+                <enclosure url="https://epictutorials.github.io/shuttle-releases/Shuttle7-3.delta" sparkle:deltaFrom="3" length="1340506" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="iLczW3RUfv4XZRtZiC2zqcOwF7VociVW4siRVqrpPtGmw8dmvLO/7q35ZGlLGH6ee5vLw/p71MFre6tQucmBDQ=="/>
+                <enclosure url="https://epictutorials.github.io/shuttle-releases/Shuttle7-2.delta" sparkle:deltaFrom="2" length="3478746" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="nkcopZldMDA30xCj70xfS73jhwZITUF6prYfJLqlsVsU5M8yBAmiIh9b7EHWG+DOaJ5RzV7Kf7cHaO5SbeoyDw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.5</title>
             <pubDate>Thu, 26 Nov 2026 06:11:03 +1300</pubDate>
             <sparkle:version>6</sparkle:version>
             <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul>
-<li>Show or hide iPhone (Media) folders and Apps in the sidebar.</li>
-<li>Apps show their own icons in the sidebar.</li>
-<li>The sidebar keeps its width when you open and close Apps.</li>
-</ul>
-]]></description>
             <enclosure url="https://epictutorials.github.io/shuttle-releases/Shuttle-1.0.5-6.dmg" length="8965985" type="application/octet-stream" sparkle:edSignature="74DFf1S/PcOdDkSwVguwClhvyS4hrUfCl5o8isoHlOI8t6n2I2apDPWMUkHhwzti7Zha8xVwmF2H95LRE2/MCQ=="/>
             <sparkle:deltas>
                 <enclosure url="https://epictutorials.github.io/shuttle-releases/Shuttle6-5.delta" sparkle:deltaFrom="5" length="619118" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="SosHTtQJtzeLhQ0nZ+4m9Bn1WZs6YrAsJjfQKaWynUBFXHHxWoDcqKk2z6ZI0SifEaNanpWQpnBHaBUqvMquAw=="/>
@@ -22,6 +41,12 @@
                 <enclosure url="https://epictutorials.github.io/shuttle-releases/Shuttle6-2.delta" sparkle:deltaFrom="2" length="3248910" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="KoanyqK9fZiRfARmQek0iK+7DhgqxSNpc8S+fBG8saAXuiNtJJ72bVUMzxHsmt4UlDIxCBW43edC8FSL6zaIDA=="/>
                 <enclosure url="https://epictutorials.github.io/shuttle-releases/Shuttle6-1.delta" sparkle:deltaFrom="1" length="3248922" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="stq+YARwZvsUF3Hdc9xULqeoXeSBWYMNgpm3ufwgZAAaH5Zm9AMkAsWIEoXtBDFmjYS3fFcbLAqvTfnOqbarDg=="/>
             </sparkle:deltas>
+            <description><![CDATA[<ul>
+<li>Show or hide iPhone (Media) folders and Apps in the sidebar.</li>
+<li>Apps show their own icons in the sidebar.</li>
+<li>The sidebar keeps its width when you open and close Apps.</li>
+</ul>
+]]></description>
         </item>
         <item>
             <title>1.0.4</title>
@@ -46,19 +71,6 @@
 <li>Free space updates after copying and deleting.</li>
 </ul>
 ]]></description>
-        </item>
-        <item>
-            <title>1.0.3</title>
-            <pubDate>Mon, 23 Nov 2026 22:07:47 +1300</pubDate>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://epictutorials.github.io/shuttle-releases/Shuttle-1.0.3-4.dmg" length="9507407" type="application/octet-stream" sparkle:edSignature="xxCjdQVtU/EbiPZcI+xMOsVGK4SEZ+dO/I/dR1NhO5UChtSOKa4f7tE6qH02gGFGBZHtg7Qe8TK09okFBYhKCg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://epictutorials.github.io/shuttle-releases/Shuttle4-3.delta" sparkle:deltaFrom="3" length="292454" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="atsf1R7xMJTe6SWGnYfxik9+ddVvmGrHJhnwDcqD/IHU9f+KvM1Uc8T5r9vqLnn+DvtAihK/IpiLUvcuaZ7aDg=="/>
-                <enclosure url="https://epictutorials.github.io/shuttle-releases/Shuttle4-2.delta" sparkle:deltaFrom="2" length="2505550" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="P8qGNclDWDcxRXkGLpVUsTbJ5hsrCmEkov1j4AHR//JOqp03PAC+hRMeuyL/re2sKmomPm3ZYPQDh2RNoZ4FBA=="/>
-                <enclosure url="https://epictutorials.github.io/shuttle-releases/Shuttle4-1.delta" sparkle:deltaFrom="1" length="2509138" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="8Hv/1ZBilq/6Oj0SfMuIhUtho9GMN4g1PPx4L1h1RvxCk9dGAYqWN3UtA1qiugFvnzTPiQnaAyCFbh3ogNpyDQ=="/>
-            </sparkle:deltas>
         </item>
     </channel>
 </rss>
