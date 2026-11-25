@@ -3,6 +3,27 @@
     <channel>
         <title>Shuttle</title>
         <item>
+            <title>1.0.5</title>
+            <pubDate>Thu, 26 Nov 2026 06:11:03 +1300</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul>
+<li>Show or hide iPhone (Media) folders and Apps in the sidebar.</li>
+<li>Apps show their own icons in the sidebar.</li>
+<li>The sidebar keeps its width when you open and close Apps.</li>
+</ul>
+]]></description>
+            <enclosure url="https://epictutorials.github.io/shuttle-releases/Shuttle-1.0.5-6.dmg" length="8965985" type="application/octet-stream" sparkle:edSignature="74DFf1S/PcOdDkSwVguwClhvyS4hrUfCl5o8isoHlOI8t6n2I2apDPWMUkHhwzti7Zha8xVwmF2H95LRE2/MCQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://epictutorials.github.io/shuttle-releases/Shuttle6-5.delta" sparkle:deltaFrom="5" length="619118" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="SosHTtQJtzeLhQ0nZ+4m9Bn1WZs6YrAsJjfQKaWynUBFXHHxWoDcqKk2z6ZI0SifEaNanpWQpnBHaBUqvMquAw=="/>
+                <enclosure url="https://epictutorials.github.io/shuttle-releases/Shuttle6-4.delta" sparkle:deltaFrom="4" length="1104318" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="TMl9fT8sstsuBu0SlAyUd6tAfnKtj+okpCIyT91DrHhXM22fm3IDM6Ds4LaeZZQmrq1ihHvLrKrApBDN/I2dDA=="/>
+                <enclosure url="https://epictutorials.github.io/shuttle-releases/Shuttle6-3.delta" sparkle:deltaFrom="3" length="1107082" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="eGvdjDZUz2XM0hnZO5lu/8r7KO/DjUlm7FU68PdIHhu0lJljsOA+UPUBLCWlqrOuRo2hkWVFTDJkKMVapb3XAQ=="/>
+                <enclosure url="https://epictutorials.github.io/shuttle-releases/Shuttle6-2.delta" sparkle:deltaFrom="2" length="3248910" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="KoanyqK9fZiRfARmQek0iK+7DhgqxSNpc8S+fBG8saAXuiNtJJ72bVUMzxHsmt4UlDIxCBW43edC8FSL6zaIDA=="/>
+                <enclosure url="https://epictutorials.github.io/shuttle-releases/Shuttle6-1.delta" sparkle:deltaFrom="1" length="3248922" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="stq+YARwZvsUF3Hdc9xULqeoXeSBWYMNgpm3ufwgZAAaH5Zm9AMkAsWIEoXtBDFmjYS3fFcbLAqvTfnOqbarDg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.4</title>
             <pubDate>Tue, 24 Nov 2026 20:52:03 +1300</pubDate>
             <sparkle:version>5</sparkle:version>
@@ -37,18 +58,6 @@
                 <enclosure url="https://epictutorials.github.io/shuttle-releases/Shuttle4-3.delta" sparkle:deltaFrom="3" length="292454" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="atsf1R7xMJTe6SWGnYfxik9+ddVvmGrHJhnwDcqD/IHU9f+KvM1Uc8T5r9vqLnn+DvtAihK/IpiLUvcuaZ7aDg=="/>
                 <enclosure url="https://epictutorials.github.io/shuttle-releases/Shuttle4-2.delta" sparkle:deltaFrom="2" length="2505550" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="P8qGNclDWDcxRXkGLpVUsTbJ5hsrCmEkov1j4AHR//JOqp03PAC+hRMeuyL/re2sKmomPm3ZYPQDh2RNoZ4FBA=="/>
                 <enclosure url="https://epictutorials.github.io/shuttle-releases/Shuttle4-1.delta" sparkle:deltaFrom="1" length="2509138" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="8Hv/1ZBilq/6Oj0SfMuIhUtho9GMN4g1PPx4L1h1RvxCk9dGAYqWN3UtA1qiugFvnzTPiQnaAyCFbh3ogNpyDQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.0.2</title>
-            <pubDate>Mon, 23 Nov 2026 13:07:55 +1300</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://epictutorials.github.io/shuttle-releases/Shuttle-1.0.2-3.dmg" length="9505953" type="application/octet-stream" sparkle:edSignature="/wM2+3mFFnHELdRvpzm+xwat+Joloz6poouk/BUOsC/zjINN0yOZKOSeC225HRUZUgtU0Uo7lsewDecl1NwrDA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://epictutorials.github.io/shuttle-releases/Shuttle3-2.delta" sparkle:deltaFrom="2" length="2502826" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="m4xc85W7oMWqr3iMuSO5HDIm2cco9+LtHRtGwRoAf1T/NeorrlfiqdKwIqr3u9SZfDVxOXnWsq4wPu91i7JqCA=="/>
-                <enclosure url="https://epictutorials.github.io/shuttle-releases/Shuttle3-1.delta" sparkle:deltaFrom="1" length="2500358" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="V7MMI4TAjR443pMvrc8hLWQyzZ7HLNAIE5+6T36rAcYMEpbokaKrUoAawZL6haB4GW8fsmXAm8POtH+6uExPDg=="/>
             </sparkle:deltas>
         </item>
     </channel>
