@@ -3,17 +3,57 @@
     <channel>
         <title>Shuttle</title>
         <item>
+            <title>0.9.8</title>
+            <pubDate>Fri, 27 Nov 2026 19:51:04 +1300</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>0.9.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>Move files and folders on your iPhone or iPad (Pro)</h3>
+<ul>
+<li>Drag files and folders onto a folder, onto the path bar, or onto the app in the sidebar to move them within that app. Folders spring open as you hover.</li>
+<li>Or choose File › Move To…, or copy with ⌘C and choose Edit › Move Item Here (⌥⌘V).</li>
+<li>If something with the same name is already there, choose Skip, Replace or Keep Both. Folders with the same name are merged.</li>
+<li>Undo and Redo work for moves, several steps back.</li>
+</ul>
+<h3>Folder sizes</h3>
+<ul>
+<li>In list view, the Size column shows each folder’s total, including everything in its subfolders, the way Finder counts.</li>
+<li>Sorting by size now sorts folders by their totals.</li>
+<li>Sizes appear as they’re counted. Small folders show theirs straight away, even next to a folder with tens of thousands of photos.</li>
+</ul>
+<h3>Faster</h3>
+<ul>
+<li>Apps open instantly. Opening an app’s files, previewing and copying no longer wait about a second the first time.</li>
+</ul>
+<h3>Files stored in iCloud</h3>
+<ul>
+<li>A Mac file that’s only in iCloud Drive (with “Optimise Mac Storage” on) is now downloaded first, then copied to your device. Before, the copy could freeze on it.</li>
+<li>While a file downloads, the copy says “downloading from iCloud”, with a percentage when there is one. Cancel stops it straight away.</li>
+</ul>
+<h3>Shuttle Mode</h3>
+<ul>
+<li>The transfer speed now shows in the menu bar by default. If you turned it off, it stays off. Change it in Settings › Shuttle Mode › Show speed in menu bar.</li>
+</ul>
+<h3>Welcome tour</h3>
+<ul>
+<li>The Connect step is shorter and clearer, and shows what Shuttle Mode looks like during a transfer.</li>
+</ul>
+]]></description>
+            <enclosure url="https://epictutorials.github.io/shuttle-releases/Shuttle-0.9.8-9.dmg" length="9407214" type="application/octet-stream" sparkle:edSignature="ljbRhKLX2YSl3BnrPHUF5nPLxf7dUkkvvuETnhRZVWo1mkrck2awcIZwfwbujOJmTSSbE4av1GJ7Y2EMSQ/iBw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://epictutorials.github.io/shuttle-releases/Shuttle9-8.delta" sparkle:deltaFrom="8" length="1243210" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="FY4OK2lFzKmlhsyVby5Bkl+JGOFgOiqZXplOU794zVNx6MYQqJZa7Z3vvAV8RsdFyYgbL9U3qDs1nxQg+ODuDA=="/>
+                <enclosure url="https://epictutorials.github.io/shuttle-releases/Shuttle9-7.delta" sparkle:deltaFrom="7" length="1374898" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="NzXUzIgPuQSuktrD/2faxGPVTDvm1c2O6j80A9RDAxZb6VuPPc2pq8ngHOwu9tCkeKpCpHknkVSAmKrc3PApBQ=="/>
+                <enclosure url="https://epictutorials.github.io/shuttle-releases/Shuttle9-6.delta" sparkle:deltaFrom="6" length="1589582" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="MGh1a/jlTPTmUrnNIQPOjXCBu9Ka5L37IHo2T3oAGhTIwf2PeB9VexPzUauWnNGh6p8MbibiX8QtwdzpL5iNBA=="/>
+                <enclosure url="https://epictutorials.github.io/shuttle-releases/Shuttle9-5.delta" sparkle:deltaFrom="5" length="1608746" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="3PTMEvqKKTtBLJUlQVqCyM/Y82Y7sHB3KRpxIraIEUXsbWL651RNYlOFrhGYXSSCIOX/lfEsHU5ItOUVm1r7BA=="/>
+                <enclosure url="https://epictutorials.github.io/shuttle-releases/Shuttle9-4.delta" sparkle:deltaFrom="4" length="1837966" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="oOFjapjjeGe3vYFoP7KXxVmol85tjkD+UUIcSDVGRX9asKxbPt8rWYxoztTy96grxdyL5rRuPXggHdns4Eo0Ag=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.9.7</title>
             <pubDate>Thu, 26 Nov 2026 08:39:52 +1300</pubDate>
             <sparkle:version>8</sparkle:version>
             <sparkle:shortVersionString>0.9.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul>
-<li>HEVC, H.264 and ProRes video plays straight off your iPhone or iPad, whatever its size. Press Space: nothing is copied first, and the 2 GB limit is gone for a single .mov, .mp4 or .m4v that macOS can play.</li>
-<li>A large video that can’t be read right now says so, instead of “too large to preview”.</li>
-<li>Version numbers now start from 0.9 ahead of Shuttle’s 1.0 launch. This is newer than 1.0.6.</li>
-</ul>
-]]></description>
             <enclosure url="https://epictutorials.github.io/shuttle-releases/Shuttle-0.9.7-8.dmg" length="9183957" type="application/octet-stream" sparkle:edSignature="YNiopV+4ZptxxcFHKg92DaB8Ijt//OMmee5blbRiGJNMAxDYQ6qkmEInhnA0fV5NiB9WjT3OjKnvXdXuMLPfBg=="/>
             <sparkle:deltas>
                 <enclosure url="https://epictutorials.github.io/shuttle-releases/Shuttle8-7.delta" sparkle:deltaFrom="7" length="763762" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="lGDCkSKoSfBuCTVfv4ExFOKaP1/s5DQSPlPHv0VQLmVuuP9SDyfyz6g09OhgX1COb3KyFHxhrmLN61EtSaD+BQ=="/>
@@ -22,6 +62,12 @@
                 <enclosure url="https://epictutorials.github.io/shuttle-releases/Shuttle8-4.delta" sparkle:deltaFrom="4" length="1444238" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="3Wi9xTQUhKbeBWrQIUcfMmDgJqr43akLozF7brTRDfd7q3vKQSU74C0M+5B76MAcFjLe81UpSOALMLbc2p6NCg=="/>
                 <enclosure url="https://epictutorials.github.io/shuttle-releases/Shuttle8-3.delta" sparkle:deltaFrom="3" length="1451146" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="JGHG8B0Mn/XPIHHXyDBTfdQgXVUnPriXffArSGbKDw0+Sezicb/mzmE8zfEpoFL00j68RG9UZtbPyA+k8s5EAA=="/>
             </sparkle:deltas>
+            <description><![CDATA[<ul>
+<li>HEVC, H.264 and ProRes video plays straight off your iPhone or iPad, whatever its size. Press Space: nothing is copied first, and the 2 GB limit is gone for a single .mov, .mp4 or .m4v that macOS can play.</li>
+<li>A large video that can’t be read right now says so, instead of “too large to preview”.</li>
+<li>Version numbers now start from 0.9 ahead of Shuttle’s 1.0 launch. This is newer than 1.0.6.</li>
+</ul>
+]]></description>
         </item>
         <item>
             <title>1.0.6</title>
@@ -36,21 +82,6 @@
                 <enclosure url="https://epictutorials.github.io/shuttle-releases/Shuttle7-4.delta" sparkle:deltaFrom="4" length="1338218" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="9xq7R84ztghgRrz80I/IQDvjZz1mBUMbC7gFE2Y/ivfYDVl0eRH5N/m87pU/nEgxNlLPPxjRoQeE9Dxvhx9tDA=="/>
                 <enclosure url="https://epictutorials.github.io/shuttle-releases/Shuttle7-3.delta" sparkle:deltaFrom="3" length="1340506" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="iLczW3RUfv4XZRtZiC2zqcOwF7VociVW4siRVqrpPtGmw8dmvLO/7q35ZGlLGH6ee5vLw/p71MFre6tQucmBDQ=="/>
                 <enclosure url="https://epictutorials.github.io/shuttle-releases/Shuttle7-2.delta" sparkle:deltaFrom="2" length="3478746" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="nkcopZldMDA30xCj70xfS73jhwZITUF6prYfJLqlsVsU5M8yBAmiIh9b7EHWG+DOaJ5RzV7Kf7cHaO5SbeoyDw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.0.5</title>
-            <pubDate>Thu, 26 Nov 2026 06:11:03 +1300</pubDate>
-            <sparkle:version>6</sparkle:version>
-            <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://epictutorials.github.io/shuttle-releases/Shuttle-1.0.5-6.dmg" length="8965985" type="application/octet-stream" sparkle:edSignature="74DFf1S/PcOdDkSwVguwClhvyS4hrUfCl5o8isoHlOI8t6n2I2apDPWMUkHhwzti7Zha8xVwmF2H95LRE2/MCQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://epictutorials.github.io/shuttle-releases/Shuttle6-5.delta" sparkle:deltaFrom="5" length="619118" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="SosHTtQJtzeLhQ0nZ+4m9Bn1WZs6YrAsJjfQKaWynUBFXHHxWoDcqKk2z6ZI0SifEaNanpWQpnBHaBUqvMquAw=="/>
-                <enclosure url="https://epictutorials.github.io/shuttle-releases/Shuttle6-4.delta" sparkle:deltaFrom="4" length="1104318" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="TMl9fT8sstsuBu0SlAyUd6tAfnKtj+okpCIyT91DrHhXM22fm3IDM6Ds4LaeZZQmrq1ihHvLrKrApBDN/I2dDA=="/>
-                <enclosure url="https://epictutorials.github.io/shuttle-releases/Shuttle6-3.delta" sparkle:deltaFrom="3" length="1107082" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="eGvdjDZUz2XM0hnZO5lu/8r7KO/DjUlm7FU68PdIHhu0lJljsOA+UPUBLCWlqrOuRo2hkWVFTDJkKMVapb3XAQ=="/>
-                <enclosure url="https://epictutorials.github.io/shuttle-releases/Shuttle6-2.delta" sparkle:deltaFrom="2" length="3248910" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="KoanyqK9fZiRfARmQek0iK+7DhgqxSNpc8S+fBG8saAXuiNtJJ72bVUMzxHsmt4UlDIxCBW43edC8FSL6zaIDA=="/>
-                <enclosure url="https://epictutorials.github.io/shuttle-releases/Shuttle6-1.delta" sparkle:deltaFrom="1" length="3248922" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="stq+YARwZvsUF3Hdc9xULqeoXeSBWYMNgpm3ufwgZAAaH5Zm9AMkAsWIEoXtBDFmjYS3fFcbLAqvTfnOqbarDg=="/>
             </sparkle:deltas>
         </item>
     </channel>
